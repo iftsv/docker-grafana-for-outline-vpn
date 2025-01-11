@@ -20,3 +20,4 @@ The default username and password for Grafana is admin / admin . The first time 
 - [https://github.com/Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server)
 - [https://grafana.com/docs/grafana/latest/setup-grafana/installation/docker/](https://grafana.com/docs/grafana/latest/setup-grafana/installation/docker/)
 
+![grafana-basic-dashboard-outline-vpn.png](/img/grafana-basic-dashboard-outline-vpn.png?raw=true "grafana-basic-dashboard-outline-vpn.png")
